@@ -27,7 +27,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 import static com.jby.hanwei.url.UrlManager.loginPath;
+//lol/ hahaha
 //lol/ from tky
+//lol
+//new thing again
 public class LoginActivity extends AppCompatActivity implements View.OnClickListener {
     private EditText username, password;
     private Button loginButton, ipAddress;
