@@ -30,6 +30,7 @@ import static com.jby.hanwei.url.UrlManager.loginPath;
 //lol/ hahaha
 //lol/ from tky
 //lol
+//fk up
 public class LoginActivity extends AppCompatActivity implements View.OnClickListener {
     private EditText username, password;
     private Button loginButton, ipAddress;
